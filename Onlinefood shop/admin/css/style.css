@@ -1,0 +1,25 @@
+body {
+      position: relative; 
+      background-image: url('img/black.jfif');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+  }
+
+.font{
+  font-family:KaYin2014 ;
+}
+  
+/* Make the image fully responsive */
+  .carousel-inner img {
+      width: 100%;
+  }
+
+h4{
+  color: white;
+}
+
+  
+    
+
+ 
